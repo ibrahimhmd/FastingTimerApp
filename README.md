@@ -10,7 +10,7 @@
 ![Simulator Screenshot - iPhone 15 - 2024-05-21 at 19 17 41](https://github.com/ibrahimhmd/FastingTimerApp/assets/46127624/dd10094d-6387-429e-aba2-548963daa4e6)
 ![Simulator Screenshot - iPhone 15 - 2024-05-21 at 19 17 50](https://github.com/ibrahimhmd/FastingTimerApp/assets/46127624/ac8016a9-8d8d-4723-bc7f-216b1ddf7851)
 
-
+<img src="https://github.com/ibrahimhmd/FastingTimerApp/assets/46127624/a4c0d976-79aa-4c84-b26e-4b9373f505ea" alt="drawing" width="1290" hight= "2796"/>
 
 # Languages / Frameworks Used
 ### Swift , SwiftUI
